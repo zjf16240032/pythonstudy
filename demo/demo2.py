@@ -1,0 +1,6 @@
+a=(1,2,34,"哈哈","哈哈",True,False)
+print(a[0:3])
+print(a[3:5])
+print(a[5:])
+b=(32,543,12,a)
+print(b[3][2])
